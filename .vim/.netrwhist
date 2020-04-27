@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/sdas/.agpkg/ag-coreors/1.0.0/include/coreors'
+let g:netrw_dirhist_2='/home/sdas/ag-china-coreors'
+let g:netrw_dirhist_3='/home/sdas/.agpkg/ag-stratapi/1.0.0/include/stratapi'
+let g:netrw_dirhist_4='/data/misc/external/china/API/sdic/20190611'
+let g:netrw_dirhist_5='/home/sdas/china-machines/china_SHFE_SDIC/10.84.65.11_qb-sdiczj1-psr01/apps/test_shferawmd_reflector'
+let g:netrw_dirhist_6='/home/sdas/china-machines/china_SHFE_SDIC/10.84.65.11_qb-sdiczj1-psr01/apps/test_shferawmd_reflector/bin'
