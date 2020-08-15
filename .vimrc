@@ -3,13 +3,15 @@ set clipboard=unnamedplus
 set title
 set ts=4 sw=4
 "filetype plugin indent on
-set tabstop=4
-set shiftwidth=4
+set softtabstop=4
+set autoindent
 set expandtab
 set fileencodings=utf-8,gb2312,gbk,gb18030
 set termencoding=utf-8
 set incsearch
 set ruler         
+set showmatch
+set smarttab
 set showcmd      
 set incsearch   
 set laststatus=2
@@ -18,7 +20,8 @@ set modelines=0
 set nomodeline
 set splitbelow
 set splitright
-set clipboard=unnamedplus
+set hlsearch
+set paste
 
 nnoremap <C-h> :tabprevious<CR>
 nnoremap <C-l> :tabnext<CR>
